@@ -215,11 +215,11 @@
             "description": "https://remove.bg",
             "required": false
         },
-        "ALIVE_MESSAGE": {
+        "t": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
             "value": "ɪᴍ ꜱᴛɪʟʟ ᴀʟɪᴠᴇ"
-"
+
         },
         "BAN_MESSAGE":
             "description": "Customizable Ban Message! Use => default, to change back.",
